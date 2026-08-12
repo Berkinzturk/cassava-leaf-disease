@@ -1,0 +1,9 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+anthropic>=0.40
+gradio>=5.0
